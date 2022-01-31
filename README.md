@@ -12,8 +12,6 @@ Privacy Oriented Notes App
 
 ### What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
-
 My idea is a web-based note-taking application with added privacy features. In many cases, apps used to take notes on a computer (ex. Google Docs) offer a variety
 of options for formatting text, but privacy features for users typing in public places are often not a significant
 concern. My app idea would combine standard text-editing functonality with privacy features, and would thus solve some of the problems/concerns raised by
@@ -21,19 +19,12 @@ using a note-taking app in situations where one must document potentially sensit
 
 ### For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
 
 While people with professions geared towards writing (such as book writers or journalists) may benefit from the privacy features of the app, I believe the 
 added privacy functionality would be beneficial to anyone who might otherwise have use for a note taking app. That is, people who want to quickly jot down
 a new password or piece of contact information would benefit from this app and its privacy features.
 
 ### How?
-
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
 
 There would be a user interface to allow text editing with some functionaility for text formatting. 
 Ideas for privacy-oriented features include:
@@ -57,23 +48,7 @@ text in an otherwise relatively public note/message.
 
 ### Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
-
 I believe this project is relatively modular and adaptable in nature. The text editor implementation can be simplified if features related to formatting
 prove to be too difficult to implement; Similarly, the privacy features can also be simplified or modified according to the difficulty of implementation. As the
 list of fully implemented features increases, the list of new features that can be added also increases since privacy itself is something that can be continuously
 improved and expanded upon.
-
-## Submission
-
-Complete the assignment as a Markdown document in the file named `README.md` in this repository. The message should be nicely formatted and outlined with a clear heading and sub-headings for each section.
-
-Use the `git` features of **Visual Studio Code** to commit your work and `push` them to the GitHub repository.
-
-Share the link to your document in your private assignments Discord channel AND in the public #project-ideas channel. In both cases, include the title of your project for all to see in the message.
-
-## What happens next
-
-We will select a subset of the proposals that we think will be the most interesting and appropriate for this course. These will be published to the class. Your next assignment will be to rank your favorites. We will then make team assignments based on this information and the answers you have provided to the previous introductory questionnaire.
-
-If your proposal is selected, you are 99% guaranteed to be part of that team.
