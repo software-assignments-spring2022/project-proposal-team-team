@@ -1,14 +1,10 @@
-# Project Proposal
+# Privacy-Oriented Notes App
 
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
 
-## Collaboration
+### Collaboration
 
-This proposal was written by me (Spenser Laier)
+This proposal was written by me (Spenser)
 
-### Project title
-
-Privacy Oriented Notes App
 
 ### What and why?
 
@@ -18,7 +14,6 @@ concern. My app idea would combine standard text-editing functonality with priva
 using a note-taking app in situations where one must document potentially sensitive information in a public place.
 
 ### For whom?
-
 
 While people with professions geared towards writing (such as book writers or journalists) may benefit from the privacy features of the app, I believe the 
 added privacy functionality would be beneficial to anyone who might otherwise have use for a note taking app. That is, people who want to quickly jot down
