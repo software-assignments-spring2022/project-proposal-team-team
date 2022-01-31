@@ -38,11 +38,15 @@ Ideas for privacy-oriented features include:
 - The ability to replace the currently typed text with asterisks or some other symbol, similar to what is done
  when one types a password into a website. Again, this could be an extension of the privacy screen feature, or it could be its own
  feature entirely.
+
 General features include:
+
 - The ability to edit and format text
 - The ability to download created notes
 - The ability to import created notes and edit them
+
 Ambitious extra features include:
+
 - The ability to "hide" certain portions of text within a note, so that the user can send secret messages 
   embedded within more public messages. For example, one might be able to enter a password to reveal a portion of hidden
   text in an otherwise relatively public note/message.
